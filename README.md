@@ -8,8 +8,7 @@
 
 # Poros  
 
-## 🌟 Overview  
-Pitch for Poros
+## 🌟 Vision Statement 
 
 Landing a dream job or internship isn’t just about talent, it’s about timing, preparation, and organization. Right now, students and young professionals face a chaotic process: scattered job boards, missed deadlines, endless spreadsheets, and generic resumes that fail to stand out. The result is missed opportunities and unnecessary stress.
 
