@@ -1,3 +1,11 @@
+## Related Repositories
+- [Client](https://github.com/calvin-cs262-fall2025-teamF/Client.git)
+- [Service](https://github.com/calvin-cs262-fall2025-teamF/Service.git)
+
+
+
+
+
 # Poros  
 
 ## 🌟 Overview  
