@@ -19,7 +19,7 @@ We envision a future where job hunting feels less like guesswork and more like a
 
 ## Related Repositories
 - [Client](https://github.com/calvin-cs262-fall2025-teamF/Client.git)
-- [Service](https://github.com/calvin-cs262-fall2025-teamF/Service.git)
+- [Poros Data Service](https://github.com/calvin-cs262-fall2025-teamF/poros_data_service)
 
 
 ## 🔗 Design Models
