@@ -23,5 +23,5 @@ We envision a future where job hunting feels less like guesswork and more like a
 
 
 ## 🔗 Design Models
-- **UI Model:** [View the latest UI model](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/UI-Models/Updated-UI.png)
-- **UML Diagram:** [View the Poros UML Diagram](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/Poros%20UML.png)
+- **UI Model:** [View the latest UI model](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/903b2cb2e1eb390e75db340aab344ff6b313a275/UI-Models/Updated-UI.png)
+- **UML Diagram:** [View the Poros UML Diagram](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/903b2cb2e1eb390e75db340aab344ff6b313a275/design/POROS%20DOMAIN%20MODEL.jpeg)
