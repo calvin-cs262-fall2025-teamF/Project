@@ -1,15 +1,4 @@
-## Related Repositories
-- [Client](https://github.com/calvin-cs262-fall2025-teamF/Client.git)
-- [Service](https://github.com/calvin-cs262-fall2025-teamF/Service.git)
-
-
-## 🔗 Design Models
-
-- **UI Model:** [View the latest UI model](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/UI-Models/Updated-UI.png)
-- **UML Diagram:** [View the Poros UML Diagram](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/Poros%20UML.png)
-
-
-# Poros  
+# Poros - TEAM F'S CS262 PROJECT  
 
 ## 🌟 Vision Statement 
 
@@ -26,3 +15,13 @@ We envision a future where job hunting feels less like guesswork and more like a
 - [Ose Aisuodionoe-Shadrach](https://github.com/Ose-97)  
 - [Ruhama Getahun](https://github.com/RuhamaGetahun)  
 - [Youssef Dalil](https://github.com/YoussefDalil24)  
+
+
+## Related Repositories
+- [Client](https://github.com/calvin-cs262-fall2025-teamF/Client.git)
+- [Service](https://github.com/calvin-cs262-fall2025-teamF/Service.git)
+
+
+## 🔗 Design Models
+- **UI Model:** [View the latest UI model](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/UI-Models/Updated-UI.png)
+- **UML Diagram:** [View the Poros UML Diagram](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/main/Poros%20UML.png)
