@@ -25,3 +25,8 @@ We envision a future where job hunting feels less like guesswork and more like a
 ## 🔗 Design Models
 - **UI Model:** [View the latest UI model](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/903b2cb2e1eb390e75db340aab344ff6b313a275/UI-Models/Updated-UI.png)
 - **UML Diagram:** [View the Poros UML Diagram](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/903b2cb2e1eb390e75db340aab344ff6b313a275/design/POROS%20DOMAIN%20MODEL.jpeg)
+
+
+## Test Script and Test Report
+- **Usability Test Script:** [Poros Usability Test Script](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/f2a70dc88190a4b4c76bc23e2c4869b303323691/Poros%20Usability%20Test%20Script.pdf)
+- **Test Report:** [Poros Test Report](https://github.com/calvin-cs262-fall2025-teamF/Project/blob/f2a70dc88190a4b4c76bc23e2c4869b303323691/Poros%20Usability%20Test%20Script.pdf)
